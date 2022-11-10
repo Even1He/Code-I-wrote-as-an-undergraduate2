@@ -1,5 +1,4 @@
-# Code-I-wrote-as-an-undergraduate2
-For 100,000 lines of code
+
 //双数组写数组的循环后移问题//
 ```
 #include <iostream>
